@@ -67,3 +67,5 @@ node_modules/
 
 # frontend build output
 build/
+
+.idea/
