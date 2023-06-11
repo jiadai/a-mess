@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "mess-web"
+  "defaultProject": "mess-web",
+  "cli": {
+    "analytics": false
+  }
 }
